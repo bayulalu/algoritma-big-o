@@ -15,4 +15,4 @@ function anotherFunChallenge(input) {
   let whoAmI = "I don't know"; //O(1)
 }
 
-// answare BIG O (4 + 5n)
+// answare BIG O (4 + 5n) => O(n)
